@@ -1,0 +1,4 @@
+outs:
+- md5: e28040bb6b4af470077c02973408602a
+  size: 80766085
+  path: m3.pth
